@@ -1,1 +1,73 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Air quality sensor CCS811 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/CCS811_breakout.kicad_pcb
+	modified:   CAD/V1.0.0/CCS811_breakout.kicad_pro
+	modified:   CAD/V1.0.0/CCS811_breakout.kicad_sch
+	modified:   CAD/V1.1.1/CCS811_breakout.kicad_pcb
+	modified:   CAD/V1.1.1/CCS811_breakout.kicad_pro
+	modified:   CAD/V1.1.1/CCS811_breakout.kicad_sch
+	modified:   CAD/V1.1.1/CCS811_breakout_TAVU-LENOVO2_Jul-04-144926-2022_Conflict.kicad_pro
+	modified:   CAD/V1.1.1/PANEL/CCS811_breakout.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/CCS811_breakout.kicad_pro
+	modified:   CAD/V1.1.1/fp-info-cache_TAVU-LENOVO2_Jul-04-144927-2022_Conflict
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/CCS811_breakout_BOM.csv
+	modified:   OUTPUTS/V1.0.0/CCS811_breakout_ibom.html
+	modified:   OUTPUTS/V1.0.0/CSS811_breakout_gerber.zip
+	modified:   OUTPUTS/V1.1.1/CCS811 breakout.jpg
+	modified:   OUTPUTS/V1.1.1/CCS811 breakout_ibom.html
+	modified:   OUTPUTS/V1.1.1/CCS811_breakout.pdf
+	modified:   OUTPUTS/V1.1.1/CCS811_breakout_3D.step
+	modified:   OUTPUTS/V1.1.1/CCS811_breakout_BOM.csv
+	modified:   OUTPUTS/V1.1.1/CSS811_breakout_101.2x89.2_16.zip
+	modified:   README.md
+	new file:   log.txt
+
+[main 4218e07] Updating open source files.
+ 29 files changed, 7 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/CCS811_breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/CCS811_breakout.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/CCS811_breakout.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/CCS811_breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/CCS811_breakout.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/CCS811_breakout.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/CCS811_breakout_TAVU-LENOVO2_Jul-04-144926-2022_Conflict.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/CCS811_breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/CCS811_breakout.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/fp-info-cache_TAVU-LENOVO2_Jul-04-144927-2022_Conflict
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/CCS811_breakout_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/CCS811_breakout_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/CSS811_breakout_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/CCS811 breakout.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/CCS811 breakout_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/CCS811_breakout.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/CCS811_breakout_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/CCS811_breakout_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/CSS811_breakout_101.2x89.2_16.zip
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Air-quality-sensor-CCS811-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor TCRT5000 breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+Obstacle-sensor-TCRT5000-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor TCRT5000 breakout to Obstacle-sensor-TCRT5000-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Air quality sensor CCS811 breakout/.git/
